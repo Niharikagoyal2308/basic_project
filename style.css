@@ -1,0 +1,47 @@
+h
+{
+
+   margin:20px;
+   display: inline;
+    color: aliceblue;
+    position: relative;
+    font-size: 30px;
+    top:20px;
+    left:10px;
+   
+}
+a{
+    margin:10px;
+    color: aliceblue;
+    right: 10px;
+    top:20px;
+    display: flex;
+    justify-content: end;
+}
+p
+{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+p1
+{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+a1
+{
+    position: relative;
+    left:50px;
+}
+button
+{
+    
+    position: relative;
+    left:45%;
+    border-radius:80px;
+}
